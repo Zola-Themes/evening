@@ -1,0 +1,22 @@
+name = "Evening"
+description = "More robust, more elegant"
+license = "MIT"
+homepage = "https://github.com/zola-themes/evening"
+min_version = "0.11.0"
+demo = "https://zola-themes.github.io/evening"
+
+[extra]
+even_menu = [
+    {url = "$BASE_URL", name = "Home"},
+    {url = "$BASE_URL/tags", name = "Tags"},
+    {url = "$BASE_URL/about", name = "About"},
+]
+even_title = "Evening"
+
+[author]
+name = "Zola Themes"
+homepage = "https://zola-themes.github.io/evening"
+
+[original]
+author =  "Vincent Prouillet"
+homepage = "https://www.vincentprouillet.com"
